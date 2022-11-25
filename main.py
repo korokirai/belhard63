@@ -1,3 +1,4 @@
 while True:
     a=1000
-print('hi')
+print('hi')*2
+"viuviuviu"
