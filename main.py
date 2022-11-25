@@ -1,2 +1,2 @@
 while True:
-    a=10
+    a=100
